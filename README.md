@@ -1,21 +1,23 @@
-# Costa de Almeria OSM React App
+# Costa de Almería Real Estate Explorer
 
-A local React app that renders the Costa de Almeria property map UI using an OpenStreetMap embed as the basemap, with custom overlay pins and a details panel.
+An interactive property exploration app for the Costa de Almería coast in Spain, featuring an interactive Mapbox map, filtering, and a shortlist feature.
 
 ## Stack
 
-- React 18
-- Webpack 5
-- Babel
-- Jest + React Testing Library
+- **Next.js 14** with App Router
+- **TypeScript** for type safety
+- **Tailwind CSS** for styling
+- **Zod** for runtime validation
+- **Zustand** for lightweight state management
+- **Mapbox GL JS** for interactive mapping
 
 ## What it does
 
-- Loads a real OpenStreetMap basemap in an iframe
-- Overlays coastal pins for the main Costa de Almeria towns and beach districts
-- Shows indicative 2 bed / 2 bath property price bands on hover and selection
-- Lists all plotted places west to east
-- Includes a direct link to open the full map in a separate tab
+- Interactive Mapbox map with property markers for Costa de Almería towns and beach districts
+- Filterable property list by budget, best for, beach access, and liveliness
+- Shortlist feature to save favorite locations
+- Detailed town pages with property overview, living, and investment insights
+- Responsive design with mobile support
 
 ## Local development
 
@@ -26,40 +28,61 @@ npm run dev
 
 Open `http://localhost:3000`.
 
-## Production build
+## Environment variables
 
-```bash
-npm run build
+Create a `.env.local` file with your Mapbox access token:
+
+```
+NEXT_PUBLIC_MAPBOX_TOKEN=pk.your_token_here
 ```
 
-The production bundle will be written to `dist/`.
-
-## Run tests
-
-```bash
-npm test
-```
-
-## Notes
-
-- The basemap intentionally uses an OpenStreetMap embed URL. This means your local machine needs internet access for the map tiles and iframe content.
-- The iframe is set to non-interactive inside the UI so the overlay pins remain aligned. Use the **Open full map** link for a fully interactive slippy map view.
-- If you want this converted to a different bundler later, the app logic is isolated in `src/App.jsx` and can be moved pretty easily.
+Get your token at [Mapbox Account](https://account.mapbox.com/access-tokens/).
 
 ## Project structure
 
-```text
-costa-almeria-osm-react/
-  public/
-    index.html
-  src/
-    App.jsx
-    App.test.jsx
-    index.jsx
-    setupTests.js
-    styles.css
-  babel.config.js
-  jest.config.js
-  package.json
-  webpack.config.js
 ```
+src/
+├── app/                    # Next.js App Router pages
+│   ├── page.tsx           # Main explorer page
+│   ├── compare/          # Compare tool
+│   ├── explorer/         # Full-screen explorer
+│   └── town/[slug]/      # Dynamic town detail pages
+├── components/           # React components
+│   ├── app-shell/       # Layout components
+│   ├── filters/        # Filter UI
+│   ├── map/           # Map components
+│   ├── shortlist/     # Shortlist feature
+│   ├── town-list/     # Town list UI
+│   ├── town-modal/    # Town detail modal
+│   └── ui/           # Shared UI components
+├── data/               # Static data (towns.json)
+├── lib/                # Utilities
+│   ├── map/           # Mapbox helpers
+│   ├── schemas/       # Zod validation schemas
+│   ├── state/        # Zustand stores
+│   └── towns/        # Data loading utilities
+└── types/             # TypeScript type definitions
+```
+
+## Key features
+
+### Interactive Map
+- Custom colored markers by price tier (value, mid-range, upper-mid, premium)
+- Click markers for town details
+- Zoom, pan, and scale controls
+
+### Filters
+- Budget range filter
+- Best for filter (retirement, holiday home, investment)
+- Beach access filter
+- Liveliness filter (quiet, lively, vibrant)
+
+### Shortlist
+- Add towns to a shortlist
+- View shortlist in a drawer
+- Remove from shortlist
+
+### Town Details
+- Overview with property prices
+- Living section (climate, amenities, expat community)
+- Investment section (rental potential, appreciation)
