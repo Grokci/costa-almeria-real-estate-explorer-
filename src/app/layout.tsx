@@ -31,6 +31,14 @@ export const metadata: Metadata = {
       'max-snippet': -1,
     },
   },
+  alternates: {
+    languages: {
+      'en': '/',
+      'es': '/',
+      'de': '/',
+      'fr': '/',
+    },
+  },
 };
 
 export default function RootLayout({

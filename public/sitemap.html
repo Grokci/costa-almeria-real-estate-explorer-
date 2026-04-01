@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Sitemap of Costa de Almería real estate explorer. Browse all coastal towns in Almería province, Spain. Find your perfect Mediterranean beach destination.">
+  <meta name="keywords" content="Costa de Almería, sitemap, Almería coast, Spanish property, coastal towns, beach property, Almería Spain, real estate, Cabo de Gata, Mojácar, Roquetas de Mar">
+  <meta name="robots" content="index, follow">
+  <meta name="googlebot" content="index, follow">
+  <meta name="author" content="Costa de Almería">
+  <meta name="geo.region" content="ES-AL">
+  <meta name="geo.placename" content="Almería">
+  
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Sitemap | Costa de Almería Real Estate">
+  <meta property="og:description" content="Complete sitemap of Costa de Almería coastal property explorer. Find your Mediterranean paradise in Spain.">
+  <meta property="og:url" content="https://costa-almeria.com/sitemap">
+  <meta property="og:site_name" content="Costa de Almería">
+  <meta property="og:locale" content="en_US">
+  
+  <!-- Canonical -->
+  <link rel="canonical" href="https://costa-almeria.com/sitemap">
+  
+  <title>Sitemap | Costa de Almería - Coastal Property Explorer</title>
+  
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+      line-height: 1.6;
+      color: #1f2937;
+      background: linear-gradient(to bottom, #ffffff, #f3f4f6);
+      min-height: 100vh;
+    }
+    
+    .container {
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 2rem;
+    }
+    
+    header {
+      text-align: center;
+      margin-bottom: 3rem;
+      padding-bottom: 2rem;
+      border-bottom: 2px solid #e5e7eb;
+    }
+    
+    h1 {
+      font-size: 2.5rem;
+      font-weight: 700;
+      color: #111827;
+      margin-bottom: 0.5rem;
+    }
+    
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: #6b7280;
+      margin-top: 1rem;
+    }
+    
+    .breadcrumb a {
+      color: #3b82f6;
+      text-decoration: none;
+    }
+    
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    
+    .breadcrumb span {
+      margin: 0 0.5rem;
+    }
+    
+    .intro {
+      background: white;
+      padding: 1.5rem;
+      border-radius: 0.75rem;
+      margin-bottom: 2rem;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    }
+    
+    .intro h2 {
+      font-size: 1.25rem;
+      margin-bottom: 0.75rem;
+      color: #111827;
+    }
+    
+    .intro p {
+      color: #4b5563;
+      font-size: 0.9375rem;
+    }
+    
+    .section {
+      background: white;
+      padding: 1.5rem;
+      border-radius: 0.75rem;
+      margin-bottom: 1.5rem;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    }
+    
+    .section h2 {
+      font-size: 1.5rem;
+      margin-bottom: 1rem;
+      color: #111827;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+    
+    .section h2::before {
+      content: '';
+      width: 4px;
+      height: 1.5rem;
+      background: #10b981;
+      border-radius: 2px;
+    }
+    
+    .town-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 0.75rem;
+    }
+    
+    .town-link {
+      display: block;
+      padding: 0.75rem 1rem;
+      background: #f9fafb;
+      border: 1px solid #e5e7eb;
+      border-radius: 0.5rem;
+      text-decoration: none;
+      color: #1f2937;
+      transition: all 0.2s ease;
+    }
+    
+    .town-link:hover {
+      background: #10b981;
+      color: white;
+      border-color: #10b981;
+      transform: translateY(-2px);
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    }
+    
+    .town-link .name {
+      font-weight: 600;
+      display: block;
+    }
+    
+    .town-link .desc {
+      font-size: 0.8125rem;
+      opacity: 0.8;
+      margin-top: 0.25rem;
+      display: block;
+    }
+    
+    .main-links {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1rem;
+    }
+    
+    .main-link {
+      display: block;
+      padding: 1rem;
+      background: #eff6ff;
+      border: 1px solid #bfdbfe;
+      border-radius: 0.5rem;
+      text-decoration: none;
+      color: #1e40af;
+      text-align: center;
+      font-weight: 600;
+      transition: all 0.2s ease;
+    }
+    
+    .main-link:hover {
+      background: #3b82f6;
+      color: white;
+      border-color: #3b82f6;
+    }
+    
+    footer {
+      text-align: center;
+      padding: 2rem;
+      color: #6b7280;
+      font-size: 0.875rem;
+      border-top: 1px solid #e5e7eb;
+      margin-top: 2rem;
+    }
+    
+    footer a {
+      color: #3b82f6;
+      text-decoration: none;
+    }
+    
+    footer a:hover {
+      text-decoration: underline;
+    }
+    
+    .stats {
+      display: flex;
+      justify-content: center;
+      gap: 2rem;
+      margin-top: 1rem;
+      flex-wrap: wrap;
+    }
+    
+    .stat {
+      text-align: center;
+    }
+    
+    .stat-value {
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: #10b981;
+    }
+    
+    .stat-label {
+      font-size: 0.75rem;
+      color: #6b7280;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Sitemap</h1>
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="/">Home</a>
+        <span>›</span>
+        <span>Sitemap</span>
+      </nav>
+      <div class="stats">
+        <div class="stat">
+          <div class="stat-value">17</div>
+          <div class="stat-label">Coastal Towns</div>
+        </div>
+        <div class="stat">
+          <div class="stat-value">4</div>
+          <div class="stat-label">Regions</div>
+        </div>
+        <div class="stat">
+          <div class="stat-value">4</div>
+          <div class="stat-label">Main Pages</div>
+        </div>
+      </div>
+    </header>
+    
+    <div class="intro">
+      <h2>About This Sitemap</h2>
+      <p>
+        This sitemap lists all pages available on Costa de Almería, your comprehensive guide to coastal property in Almería province, Spain. 
+        From the historic capital Almería city to the pristine beaches of Cabo de Gata natural park, discover your perfect Mediterranean destination 
+        for vacations, relocation, or investment. Use the interactive map explorer to compare towns, view beach access, and find properties that fit your lifestyle.
+      </p>
+    </div>
+    
+    <div class="section">
+      <h2>Main Pages</h2>
+      <div class="main-links">
+        <a href="/" class="main-link">Home</a>
+        <a href="/explorer" class="main-link">Town Explorer</a>
+        <a href="/compare" class="main-link">Compare Towns</a>
+        <a href="/sitemap.xml" class="main-link">XML Sitemap</a>
+      </div>
+    </div>
+    
+    <div class="section">
+      <h2>West Region (Costa de Almería Occidental)</h2>
+      <div class="town-grid">
+        <a href="/town/adra" class="town-link">
+          <span class="name">Adra</span>
+          <span class="desc">Traditional fishing city, best value on the coast</span>
+        </a>
+        <a href="/town/balanegra" class="town-link">
+          <span class="name">Balanegra</span>
+          <span class="desc">Quiet beach village, exceptional value</span>
+        </a>
+        <a href="/town/balerma" class="town-link">
+          <span class="name">Balerma</span>
+          <span class="desc">Local seaside town, affordable apartments</span>
+        </a>
+        <a href="/town/almerimar" class="town-link">
+          <span class="name">Almerimar</span>
+          <span class="desc">Golf and marina resort lifestyle</span>
+        </a>
+        <a href="/town/roquetas-de-mar" class="town-link">
+          <span class="name">Roquetas de Mar</span>
+          <span class="desc">Major town, excellent services & expat appeal</span>
+        </a>
+      </div>
+    </div>
+    
+    <div class="section">
+      <h2>Central Region (Almería Capital)</h2>
+      <div class="town-grid">
+        <a href="/town/aguadulce" class="town-link">
+          <span class="name">Aguadulce</span>
+          <span class="desc">Marina district near the capital</span>
+        </a>
+        <a href="/town/almeria" class="town-link">
+          <span class="name">Almería City</span>
+          <span class="desc">Provincial capital, urban beach living</span>
+        </a>
+        <a href="/town/retamar-el-toyo" class="town-link">
+          <span class="name">Retamar / El Toyo</span>
+          <span class="desc">Modern resort near airport & golf</span>
+        </a>
+      </div>
+    </div>
+    
+    <div class="section">
+      <h2>Cabo de Gata Natural Park</h2>
+      <div class="town-grid">
+        <a href="/town/san-jose" class="town-link">
+          <span class="name">San José</span>
+          <span class="desc">Crown jewel of the natural park</span>
+        </a>
+        <a href="/town/las-negras" class="town-link">
+          <span class="name">Las Negras</span>
+          <span class="desc">Charming fishing village, pristine beaches</span>
+        </a>
+        <a href="/town/agua-amarga" class="town-link">
+          <span class="name">Agua Amarga</span>
+          <span class="desc">Exclusive boutique village</span>
+        </a>
+      </div>
+    </div>
+    
+    <div class="section">
+      <h2>East Region (Costa de Almería Levante)</h2>
+      <div class="town-grid">
+        <a href="/town/carboneras" class="town-link">
+          <span class="name">Carboneras</span>
+          <span class="desc">Authentic fishing town, excellent beaches</span>
+        </a>
+        <a href="/town/mojacar-playa" class="town-link">
+          <span class="name">Mojácar Playa</span>
+          <span class="desc">Internationally popular resort</span>
+        </a>
+        <a href="/town/garrucha" class="town-link">
+          <span class="name">Garrucha</span>
+          <span class="desc">Working port, excellent seafood</span>
+        </a>
+        <a href="/town/vera-playa" class="town-link">
+          <span class="name">Vera Playa</span>
+          <span class="desc">Established resort, strong rental demand</span>
+        </a>
+        <a href="/town/villaricos" class="town-link">
+          <span class="name">Villaricos</span>
+          <span class="desc">Quiet coastal village with marina</span>
+        </a>
+        <a href="/town/san-juan-terreros" class="town-link">
+          <span class="name">San Juan de los Terreros</span>
+          <span class="desc">Far-east resort near Murcia border</span>
+        </a>
+      </div>
+    </div>
+    
+    <footer>
+      <p>
+        © 2026 <a href="/">Costa de Almería</a>. All rights reserved.<br>
+        Your guide to Mediterranean coastal property in Spain
+      </p>
+    </footer>
+  </div>
+  
+  <!-- Structured Data for SEO -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Sitemap - Costa de Almería",
+    "description": "Complete sitemap of Costa de Almería coastal property explorer. Browse all 17 coastal towns in Almería province, Spain.",
+    "url": "https://costa-almeria.com/sitemap",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Costa de Almería",
+      "url": "https://costa-almeria.com"
+    },
+    "mainEntity": {
+      "@type": "ItemList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "url": "https://costa-almeria.com/"},
+        {"@type": "ListItem", "position": 2, "name": "Town Explorer", "url": "https://costa-almeria.com/explorer"},
+        {"@type": "ListItem", "position": 3, "name": "Compare Towns", "url": "https://costa-almeria.com/compare"}
+      ]
+    }
+  }
+  </script>
+</body>
+</html>

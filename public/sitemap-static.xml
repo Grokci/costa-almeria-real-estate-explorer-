@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <!-- Homepage -->
+  <url>
+    <loc>https://costa-almeria.com/</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://costa-almeria.com/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://costa-almeria.com/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://costa-almeria.com/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://costa-almeria.com/"/>
+  </url>
+  
+  <!-- Town Explorer -->
+  <url>
+    <loc>https://costa-almeria.com/explorer</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://costa-almeria.com/explorer"/>
+  </url>
+  
+  <!-- Compare Towns -->
+  <url>
+    <loc>https://costa-almeria.com/compare</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://costa-almeria.com/compare"/>
+  </url>
+  
+  <!-- Individual Town Pages - West Region -->
+  <url>
+    <loc>https://costa-almeria.com/town/adra</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://costa-almeria.com/town/adra"/>
+  </url>
+  <url>
+    <loc>https://costa-almeria.com/town/balanegra</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://costa-almeria.com/town/balanegra"/>
+  </url>
+  <url>
+    <loc>https://costa-almeria.com/town/balerma</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://costa-almeria.com/town/balerma"/>
+  </url>
+  <url>
+    <loc>https://costa-almeria.com/town/almerimar</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://costa-almeria.com/town/almerimar"/>
+  </url>
+  <url>
+    <loc>https://costa-almeria.com/town/roquetas-de-mar</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://costa-almeria.com/town/roquetas-de-mar"/>
+  </url>
+  
+  <!-- Individual Town Pages - Central Region -->
+  <url>
+    <loc>https://costa-almeria.com/town/aguadulce</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://costa-almeria.com/town/aguadulce"/>
+  </url>
+  <url>
+    <loc>https://costa-almeria.com/town/almeria</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://costa-almeria.com/town/almeria"/>
+  </url>
+  <url>
+    <loc>https://costa-almeria.com/town/retamar-el-toyo</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://costa-almeria.com/town/retamar-el-toyo"/>
+  </url>
+  
+  <!-- Individual Town Pages - Cabo de Gata Region -->
+  <url>
+    <loc>https://costa-almeria.com/town/san-jose</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://costa-almeria.com/town/san-jose"/>
+  </url>
+  <url>
+    <loc>https://costa-almeria.com/town/las-negras</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://costa-almeria.com/town/las-negras"/>
+  </url>
+  <url>
+    <loc>https://costa-almeria.com/town/agua-amarga</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://costa-almeria.com/town/agua-amarga"/>
+  </url>
+  
+  <!-- Individual Town Pages - East Region -->
+  <url>
+    <loc>https://costa-almeria.com/town/carboneras</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://costa-almeria.com/town/carboneras"/>
+  </url>
+  <url>
+    <loc>https://costa-almeria.com/town/mojacar-playa</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://costa-almeria.com/town/mojacar-playa"/>
+  </url>
+  <url>
+    <loc>https://costa-almeria.com/town/garrucha</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://costa-almeria.com/town/garrucha"/>
+  </url>
+  <url>
+    <loc>https://costa-almeria.com/town/vera-playa</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://costa-almeria.com/town/vera-playa"/>
+  </url>
+  <url>
+    <loc>https://costa-almeria.com/town/villaricos</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://costa-almeria.com/town/villaricos"/>
+  </url>
+  <url>
+    <loc>https://costa-almeria.com/town/san-juan-terreros</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://costa-almeria.com/town/san-juan-terreros"/>
+  </url>
+</urlset>

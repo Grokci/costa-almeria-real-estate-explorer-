@@ -1,0 +1,35 @@
+# Costa de Almería - Robots.txt
+# https://costa-almeria.com
+
+# Main sitemaps
+Sitemap: https://costa-almeria.com/sitemap.xml
+Sitemap: https://costa-almeria.com/sitemap-static.xml
+Sitemap: https://costa-almeria.com/sitemap.html
+
+# Allow all pages
+User-agent: *
+Allow: /
+
+# Googlebot specific rules
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+# Googlebot Image
+User-agent: Googlebot-Image
+Allow: /
+
+# Googlebot News (if applicable)
+User-agent: Googlebot-News
+Allow: /
+
+# Other crawlers
+User-agent: *
+Allow: /
+Crawl-delay: 2
+
+# Block common non-content paths (optional safety)
+Disallow: /api/
+Disallow: /*.json$
+Disallow: /*.js$
+Disallow: /*.css$
