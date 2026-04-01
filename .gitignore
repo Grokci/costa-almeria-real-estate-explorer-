@@ -1,0 +1,21 @@
+node_modules
+/dist
+.DS_Store
+coverage
+
+# Environment files
+.env*.local
+.env.local
+.env.*.local
+
+# Next.js
+.next/
+out/
+
+# Build outputs
+*.msi
+*.exe
+
+# IDE
+.vscode/
+.idea/

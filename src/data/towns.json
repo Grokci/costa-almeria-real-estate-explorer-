@@ -1,0 +1,1205 @@
+[
+  {
+    "id": "adra",
+    "slug": "adra",
+    "name": "Adra",
+    "region": "west",
+    "type": "city",
+    "coordinates": { "lat": 36.7489, "lng": -3.0222 },
+    "hero": {
+      "imageUrl": "https://images.unsplash.com/photo-1506929562872-bb421503ef21?w=800&q=80",
+      "alt": "Adra coastal views"
+    },
+    "summary": {
+      "oneLiner": "Traditional coastal city with some of the best entry pricing on the Costa de Almería.",
+      "shortDescription": "Adra is a traditional fishing city with excellent beach access and the most affordable property prices on the coast. Perfect for value buyers seeking authentic Spanish coastal living.",
+      "bestFor": ["value-buyers", "year-round-living", "beach-lifestyle"],
+      "tradeoffs": ["Limited international community", "Fewer tourist amenities", "More local feel"]
+    },
+    "pricing": {
+      "priceBandLabel": "€90k–€160k",
+      "avgPricePerSqm": 850,
+      "marketPosition": "value",
+      "typicalPropertyTypes": ["apartments", "small houses", "beachfront studios"],
+      "buyerNote": "One of the most affordable entry points on the coast with excellent value potential."
+    },
+    "lifestyle": {
+      "beachAccess": "excellent",
+      "yearRoundLiveliness": "high",
+      "internationalFeel": "low",
+      "walkability": "high",
+      "familyFit": "high",
+      "remoteWorkFit": "medium"
+    },
+    "access": {
+      "driveToAlmeriaMins": 45,
+      "driveToAirportMins": 55,
+      "nearestHospitalMins": 10,
+      "beachWalkMins": 5
+    },
+    "facts": {
+      "population": 25600,
+      "climateSummary": "Mediterranean with 320 sunny days/year",
+      "internetQuality": "good",
+      "practicalNotes": ["Good local schools", "Traditional mercado", "Regular bus service"],
+      "healthcareAccessNote": "Local health center available"
+    },
+    "highlights": [
+      {
+        "title": "Playa de San Miguel",
+        "description": "Beautiful Blue Flag beach with excellent facilities",
+        "type": "beach"
+      },
+      {
+        "title": "Fishing Harbor",
+        "description": "Active fishing port with daily fresh fish auctions",
+        "type": "area"
+      },
+      {
+        "title": "Cerro de la Peña",
+        "description": "Scenic viewpoint overlooking the bay",
+        "type": "viewpoint"
+      }
+    ],
+    "editorial": {
+      "vibe": "Authentic Spanish coastal city with a working fishing heritage and friendly local community.",
+      "whyChooseIt": "Best entry pricing on the coast with excellent year-round livability and authentic Mediterranean charm.",
+      "whoShouldAvoidIt": "International buyers seeking expat communities or extensive tourist infrastructure.",
+      "diningNote": "Excellent seafood restaurants around the harbor with daily fresh catches.",
+      "nearbyOutingNote": "Easy day trips to the Sierra de Gádor mountains for hiking."
+    },
+    "metadata": {
+      "lastReviewed": "2026-01-15",
+      "confidence": "high",
+      "sources": ["Idealista", "Incasedo real estate", "Local council"]
+    }
+  },
+  {
+    "id": "balanegra",
+    "slug": "balanegra",
+    "name": "Balanegra",
+    "region": "west",
+    "type": "village",
+    "coordinates": { "lat": 36.9419, "lng": -2.8862 },
+    "hero": {
+      "imageUrl": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=800&q=80",
+      "alt": "Balanegra beach at sunset"
+    },
+    "summary": {
+      "oneLiner": "Quiet beach village and one of the lower-cost coastal options.",
+      "shortDescription": "A peaceful coastal village offering authentic Spanish beach living at exceptional value. Perfect for those seeking tranquility away from tourist crowds.",
+      "bestFor": ["value-buyers", "beach-lifestyle", "retirement"],
+      "tradeoffs": ["Very limited amenities", "No international community", "Car required"]
+    },
+    "pricing": {
+      "priceBandLabel": "€80k–€140k",
+      "avgPricePerSqm": 720,
+      "marketPosition": "value",
+      "typicalPropertyTypes": ["village houses", "apartments", "beachfront bungalows"],
+      "buyerNote": "One of the lowest-priced coastal properties in Almería province."
+    },
+    "lifestyle": {
+      "beachAccess": "excellent",
+      "yearRoundLiveliness": "low",
+      "internationalFeel": "low",
+      "walkability": "medium",
+      "familyFit": "medium",
+      "remoteWorkFit": "low"
+    },
+    "access": {
+      "driveToAlmeriaMins": 55,
+      "driveToAirportMins": 65,
+      "nearestHospitalMins": 20,
+      "beachWalkMins": 2
+    },
+    "facts": {
+      "population": 3500,
+      "climateSummary": "Mediterranean climate with over 300 sunny days",
+      "internetQuality": "okay",
+      "practicalNotes": ["Small local shop", "One restaurant", "Quiet year-round"],
+      "healthcareAccessNote": "Nearest health center in El Ejido"
+    },
+    "highlights": [
+      {
+        "title": "Playa de Balanegra",
+        "description": "Quiet, unspoiled beach perfect for peaceful days",
+        "type": "beach"
+      },
+      {
+        "title": "Natural Dunes",
+        "description": "Protected dune system behind the beach",
+        "type": "area"
+      }
+    ],
+    "editorial": {
+      "vibe": "Serene coastal village where time moves slowly and the beach is never crowded.",
+      "whyChooseIt": "Exceptional value in a peaceful setting for those who prioritize beach access over amenities.",
+      "whoShouldAvoidIt": "Those needing daily amenities, internet for remote work, or international community."
+    },
+    "metadata": {
+      "lastReviewed": "2026-01-15",
+      "confidence": "high",
+      "sources": ["Idealista", "Local observation"]
+    }
+  },
+  {
+    "id": "balerma",
+    "slug": "balerma",
+    "name": "Balerma",
+    "region": "west",
+    "type": "town",
+    "coordinates": { "lat": 36.9387, "lng": -2.8067 },
+    "hero": {
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "alt": "Balerma coastal promenade"
+    },
+    "summary": {
+      "oneLiner": "Small, local seaside town with affordable apartment stock.",
+      "shortDescription": "A traditional Spanish seaside town with excellent beach access and affordable properties. Popular with Spanish families and offering authentic local culture.",
+      "bestFor": ["value-buyers", "families", "year-round-living"],
+      "tradeoffs": ["Limited English spoken", "Fewer international restaurants", "More local atmosphere"]
+    },
+    "pricing": {
+      "priceBandLabel": "€90k–€150k",
+      "avgPricePerSqm": 780,
+      "marketPosition": "value",
+      "typicalPropertyTypes": ["apartments", "ground-floor studios", "small houses"],
+      "buyerNote": "Strong value for beach access, especially for apartments with sea views."
+    },
+    "lifestyle": {
+      "beachAccess": "excellent",
+      "yearRoundLiveliness": "high",
+      "internationalFeel": "low",
+      "walkability": "high",
+      "familyFit": "high",
+      "remoteWorkFit": "medium"
+    },
+    "access": {
+      "driveToAlmeriaMins": 50,
+      "driveToAirportMins": 60,
+      "nearestHospitalMins": 15,
+      "beachWalkMins": 3
+    },
+    "facts": {
+      "population": 8000,
+      "climateSummary": "Mediterranean with mild winters and hot summers",
+      "internetQuality": "good",
+      "practicalNotes": ["Good local schools", "Weekly mercado", "Medical center"],
+      "healthcareAccessNote": "Local health center with regular hours"
+    },
+    "highlights": [
+      {
+        "title": "Playa de Balerma",
+        "description": "Long Blue Flag beach with excellent facilities",
+        "type": "beach"
+      },
+      {
+        "title": "Seafront Promenade",
+        "description": "Beautiful walking path along the beach",
+        "type": "area"
+      }
+    ],
+    "editorial": {
+      "vibe": "Genuine Spanish seaside town where locals holiday, with excellent beach access at reasonable prices.",
+      "whyChooseIt": "Best value for a town with proper infrastructure and lovely beaches, popular with Spanish families.",
+      "whoShouldAvoidIt": "Those seeking an international expat community or English-speaking environment."
+    },
+    "metadata": {
+      "lastReviewed": "2026-01-15",
+      "confidence": "high",
+      "sources": ["Idealista", "Local council"]
+    }
+  },
+  {
+    "id": "almerimar",
+    "slug": "almerimar",
+    "name": "Almerimar",
+    "region": "west",
+    "type": "beach resort",
+    "coordinates": { "lat": 36.6976, "lng": -2.7903 },
+    "hero": {
+      "imageUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&q=80",
+      "alt": "Almerimar marina"
+    },
+    "summary": {
+      "oneLiner": "Golf-and-marina lifestyle area with stronger second-home demand.",
+      "shortDescription": "A well-established resort with marina, golf course, and international character. Offers a good balance of amenities and Mediterranean charm.",
+      "bestFor": ["mid-range", "families", "beach-lifestyle"],
+      "tradeoffs": ["More expensive than western towns", "Summer crowds", "Seasonal feel"]
+    },
+    "pricing": {
+      "priceBandLabel": "€150k–€280k",
+      "avgPricePerSqm": 1450,
+      "marketPosition": "mid",
+      "typicalPropertyTypes": ["apartments", "villas", "townhouses"],
+      "buyerNote": "Premium resort pricing with strong rental demand for holiday lets."
+    },
+    "lifestyle": {
+      "beachAccess": "excellent",
+      "yearRoundLiveliness": "medium",
+      "internationalFeel": "high",
+      "walkability": "high",
+      "familyFit": "high",
+      "remoteWorkFit": "high"
+    },
+    "access": {
+      "driveToAlmeriaMins": 40,
+      "driveToAirportMins": 50,
+      "nearestHospitalMins": 15,
+      "beachWalkMins": 5
+    },
+    "facts": {
+      "population": 12000,
+      "climateSummary": "Mediterranean with excellent year-round climate",
+      "internetQuality": "good",
+      "practicalNotes": ["Golf club", "Marina", "International restaurants", "Supermarkets"],
+      "healthcareAccessNote": "Private medical clinic available"
+    },
+    "highlights": [
+      {
+        "title": "Marina",
+        "description": "Full-service marina with boat facilities",
+        "type": "area"
+      },
+      {
+        "title": "Almerimar Golf",
+        "description": "18-hole golf course in resort setting",
+        "type": "daytrip"
+      },
+      {
+        "title": "Beach Clubs",
+        "description": "Multiple beach clubs along the coast",
+        "type": "beach"
+      }
+    ],
+    "editorial": {
+      "vibe": "Established resort with international character, marina, and golf for those seeking managed leisure lifestyle.",
+      "whyChooseIt": "Best balance of resort amenities and authentic Mediterranean feel with strong rental potential.",
+      "whoShouldAvoidIt": "Value buyers seeking cheaper entry points or those preferring quieter, more local settings."
+    },
+    "metadata": {
+      "lastReviewed": "2026-01-15",
+      "confidence": "high",
+      "sources": ["Idealista", "Almerimar Golf Club"]
+    }
+  },
+  {
+    "id": "roquetas-de-mar",
+    "slug": "roquetas-de-mar",
+    "name": "Roquetas de Mar",
+    "region": "west",
+    "type": "town",
+    "coordinates": { "lat": 36.7642, "lng": -2.6147 },
+    "hero": {
+      "imageUrl": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=800&q=80",
+      "alt": "Roquetas de Mar beach"
+    },
+    "summary": {
+      "oneLiner": "Long resort beaches, big local market, strong services and expat appeal.",
+      "shortDescription": "A major coastal town with extensive beachfront, excellent services, and a growing international community. Offers great value within a proper town setting.",
+      "bestFor": ["mid-range", "families", "year-round-living", "beach-lifestyle"],
+      "tradeoffs": ["Busy in summer", "Larger town feel", "More urban"]
+    },
+    "pricing": {
+      "priceBandLabel": "€140k–€250k",
+      "avgPricePerSqm": 1350,
+      "marketPosition": "mid",
+      "typicalPropertyTypes": ["apartments", "penthouses", "villas"],
+      "buyerNote": "Excellent value within a proper town with full services and beach access."
+    },
+    "lifestyle": {
+      "beachAccess": "excellent",
+      "yearRoundLiveliness": "high",
+      "internationalFeel": "medium",
+      "walkability": "high",
+      "familyFit": "high",
+      "remoteWorkFit": "high"
+    },
+    "access": {
+      "driveToAlmeriaMins": 30,
+      "driveToAirportMins": 35,
+      "nearestHospitalMins": 10,
+      "beachWalkMins": 5
+    },
+    "facts": {
+      "population": 95000,
+      "climateSummary": "Mediterranean with over 320 sunny days",
+      "internetQuality": "good",
+      "practicalNotes": ["Large hospital", "Multiple shopping centers", "International schools nearby", "Sports facilities"],
+      "healthcareAccessNote": "Hospital de Roquetas with full emergency services"
+    },
+    "highlights": [
+      {
+        "title": "Playa de Roquetas",
+        "description": "Extensive Blue Flag beach with full facilities",
+        "type": "beach"
+      },
+      {
+        "title": "Castillo de Santa María",
+        "description": "Historic castle overlooking the beach",
+        "type": "viewpoint"
+      },
+      {
+        "title": "Urbanización Roquetas",
+        "description": "Established residential area with international feel",
+        "type": "area"
+      }
+    ],
+    "editorial": {
+      "vibe": "Major coastal town with excellent services, extensive beachfront, and growing international community.",
+      "whyChooseIt": "Best combination of full town services, beach access, and international character at mid-range prices.",
+      "whoShouldAvoidIt": "Those seeking quiet village atmosphere or premium beachfront exclusivity."
+    },
+    "metadata": {
+      "lastReviewed": "2026-01-15",
+      "confidence": "high",
+      "sources": ["Idealista", "Ayuntamiento de Roquetas"]
+    }
+  },
+  {
+    "id": "aguadulce",
+    "slug": "aguadulce",
+    "name": "Aguadulce",
+    "region": "central",
+    "type": "beach resort",
+    "coordinates": { "lat": 36.8148, "lng": -2.5726 },
+    "hero": {
+      "imageUrl": "https://images.unsplash.com/photo-1506929562872-bb421503ef21?w=800&q=80",
+      "alt": "Aguadulce marina and beach"
+    },
+    "summary": {
+      "oneLiner": "Marina-adjacent and popular for year-round living near the capital.",
+      "shortDescription": "A sophisticated beach district near Almería with marina, excellent restaurants, and proximity to the capital city. Popular with professionals working in Almería.",
+      "bestFor": ["mid-range", "remote-work", "year-round-living"],
+      "tradeoffs": ["Close to city but still touristy", "Premium pricing vs. surrounding areas", "Summer crowds"]
+    },
+    "pricing": {
+      "priceBandLabel": "€150k–€260k",
+      "avgPricePerSqm": 1550,
+      "marketPosition": "mid",
+      "typicalPropertyTypes": ["apartments", "penthouses", "duplexes"],
+      "buyerNote": "Premium location near capital with excellent restaurants and marina lifestyle."
+    },
+    "lifestyle": {
+      "beachAccess": "excellent",
+      "yearRoundLiveliness": "high",
+      "internationalFeel": "medium",
+      "walkability": "high",
+      "familyFit": "medium",
+      "remoteWorkFit": "high"
+    },
+    "access": {
+      "driveToAlmeriaMins": 15,
+      "driveToAirportMins": 25,
+      "nearestHospitalMins": 8,
+      "beachWalkMins": 3
+    },
+    "facts": {
+      "population": 25000,
+      "climateSummary": "Mediterranean with capital city proximity",
+      "internetQuality": "good",
+      "practicalNotes": ["Marina", "Excellent restaurants", "Shopping center", "Good transport links"],
+      "healthcareAccessNote": "Private clinic in Aguadulce, hospital in Almería"
+    },
+    "highlights": [
+      {
+        "title": "Puerto Deportivo de Aguadulce",
+        "description": "Marina with yacht clubs and water sports",
+        "type": "area"
+      },
+      {
+        "title": "Playa de Aguadulce",
+        "description": "Urban beach with excellent services",
+        "type": "beach"
+      },
+      {
+        "title": "Almería City",
+        "description": "Easy access to historic capital for dining and culture",
+        "type": "daytrip"
+      }
+    ],
+    "editorial": {
+      "vibe": "Sophisticated coastal district with marina, excellent dining, and easy access to Almería city.",
+      "whyChooseIt": "Perfect for those wanting marina lifestyle with city proximity and excellent restaurants.",
+      "whoShouldAvoidIt": "Value buyers or those seeking quieter, more traditional settings."
+    },
+    "metadata": {
+      "lastReviewed": "2026-01-15",
+      "confidence": "high",
+      "sources": ["Idealista", "Puerto Deportivo Aguadulce"]
+    }
+  },
+  {
+    "id": "almeria",
+    "slug": "almeria",
+    "name": "Almería",
+    "region": "central",
+    "type": "city",
+    "coordinates": { "lat": 36.834, "lng": -2.4637 },
+    "hero": {
+      "imageUrl": "https://images.unsplash.com/photo-1565008447742-97f6f38c985c?w=800&q=80",
+      "alt": "Almería cathedral and historic center"
+    },
+    "summary": {
+      "oneLiner": "Urban beach living, historic center, airport access, and the widest services.",
+      "shortDescription": "The provincial capital combines historic charm with beach access and full urban amenities. The only major city directly on the Mediterranean coast.",
+      "bestFor": ["mid-range", "year-round-living", "remote-work", "families"],
+      "tradeoffs": ["Urban environment", "Less village feel", "Higher prices in center"]
+    },
+    "pricing": {
+      "priceBandLabel": "€180k–€300k",
+      "avgPricePerSqm": 1750,
+      "marketPosition": "mid",
+      "typicalPropertyTypes": ["apartments", "penthouses", "villas", "townhouses"],
+      "buyerNote": "Capital city pricing with maximum services and airport proximity."
+    },
+    "lifestyle": {
+      "beachAccess": "excellent",
+      "yearRoundLiveliness": "high",
+      "internationalFeel": "medium",
+      "walkability": "high",
+      "familyFit": "high",
+      "remoteWorkFit": "high"
+    },
+    "access": {
+      "driveToAlmeriaMins": 0,
+      "driveToAirportMins": 20,
+      "nearestHospitalMins": 5,
+      "beachWalkMins": 10
+    },
+    "facts": {
+      "population": 200000,
+      "climateSummary": "Mediterranean - sunniest city in Europe with 320+ days",
+      "internetQuality": "good",
+      "practicalNotes": ["University", "Airport with international flights", "Shopping centers", "Historic Cathedral", "Film museum"],
+      "healthcareAccessNote": "Hospital Torrecárdenas - full regional hospital"
+    },
+    "highlights": [
+      {
+        "title": "Almeda del Rey",
+        "description": "Historic quarter with cathedral and narrow streets",
+        "type": "area"
+      },
+      {
+        "title": "Playa de San Miguel",
+        "description": "Urban beach with promenade",
+        "type": "beach"
+      },
+      {
+        "title": "Film Museum",
+        "description": "World's largest film set collection - Almería's Hollywood legacy",
+        "type": "daytrip"
+      }
+    ],
+    "editorial": {
+      "vibe": "Provincial capital with Mediterranean soul, historic center, and full urban amenities including airport.",
+      "whyChooseIt": "Best for those needing full city services, airport access, and urban beach lifestyle combined.",
+      "whoShouldAvoidIt": "Those seeking quiet village life or premium exclusivity away from urban bustle."
+    },
+    "metadata": {
+      "lastReviewed": "2026-01-15",
+      "confidence": "high",
+      "sources": ["Idealista", "Ayuntamiento de Almería"]
+    }
+  },
+  {
+    "id": "retamar-el-toyo",
+    "slug": "retamar-el-toyo",
+    "name": "Retamar / El Toyo",
+    "region": "central",
+    "type": "beach resort",
+    "coordinates": { "lat": 36.8447, "lng": -2.3217 },
+    "hero": {
+      "imageUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&q=80",
+      "alt": "Retamar golf and beach"
+    },
+    "summary": {
+      "oneLiner": "Modern, lower-density beach zone near the airport and golf.",
+      "shortDescription": "A modern, purpose-built resort area with golf course, beach clubs, and excellent infrastructure. Popular with those seeking second homes near the airport.",
+      "bestFor": ["mid-range", "beach-lifestyle", "golf"],
+      "tradeoffs": ["More residential/commercial mix", "Less historic character", "Premium pricing"]
+    },
+    "pricing": {
+      "priceBandLabel": "€170k–€290k",
+      "avgPricePerSqm": 1600,
+      "marketPosition": "mid",
+      "typicalPropertyTypes": ["apartments", "villas", "townhouses"],
+      "buyerNote": "Modern resort living near airport with golf and beach club access."
+    },
+    "lifestyle": {
+      "beachAccess": "excellent",
+      "yearRoundLiveliness": "medium",
+      "internationalFeel": "high",
+      "walkability": "medium",
+      "familyFit": "high",
+      "remoteWorkFit": "high"
+    },
+    "access": {
+      "driveToAlmeriaMins": 10,
+      "driveToAirportMins": 15,
+      "nearestHospitalMins": 10,
+      "beachWalkMins": 5
+    },
+    "facts": {
+      "population": 15000,
+      "climateSummary": "Mediterranean with excellent year-round climate",
+      "internetQuality": "good",
+      "practicalNotes": ["Golf course", "Beach clubs", "Supermarkets", "Restaurants"],
+      "healthcareAccessNote": "Private clinic nearby, hospital in Almería"
+    },
+    "highlights": [
+      {
+        "title": "Club de Golf El Toyo",
+        "description": "18-hole golf course in desert landscape",
+        "type": "daytrip"
+      },
+      {
+        "title": "Playa de Retamar",
+        "description": "Clean Blue Flag beach with beach clubs",
+        "type": "beach"
+      }
+    ],
+    "editorial": {
+      "vibe": "Modern purpose-built resort with golf and beach clubs for those seeking managed leisure lifestyle.",
+      "whyChooseIt": "Best for golfers and those wanting modern resort living with easy airport access.",
+      "whoShouldAvoidIt": "Those seeking traditional Spanish character or village atmosphere."
+    },
+    "metadata": {
+      "lastReviewed": "2026-01-15",
+      "confidence": "high",
+      "sources": ["Idealista", "Club de Golf El Toyo"]
+    }
+  },
+  {
+    "id": "san-jose",
+    "slug": "san-jose",
+    "name": "San José",
+    "region": "cabo-de-gata",
+    "type": "village",
+    "coordinates": { "lat": 36.7622, "lng": -2.1086 },
+    "hero": {
+      "imageUrl": "https://images.unsplash.com/photo-1506929562872-bb421503ef21?w=800&q=80",
+      "alt": "San José village and bay"
+    },
+    "summary": {
+      "oneLiner": "The most sought-after village in the natural park, with supply constraints.",
+      "shortDescription": "The crown jewel of Cabo de Gata natural park. A picturesque village in a stunning protected landscape with excellent beaches and strong demand.",
+      "bestFor": ["premium", "beach-lifestyle", "nature-lovers"],
+      "tradeoffs": ["Very limited supply", "Premium pricing", "Summer crowds", "Protected area restrictions"]
+    },
+    "pricing": {
+      "priceBandLabel": "€220k–€400k",
+      "avgPricePerSqm": 2800,
+      "marketPosition": "premium",
+      "typicalPropertyTypes": ["villas", "village houses", "apartments"],
+      "buyerNote": "Highly constrained supply in protected park - strong appreciation potential."
+    },
+    "lifestyle": {
+      "beachAccess": "excellent",
+      "yearRoundLiveliness": "medium",
+      "internationalFeel": "medium",
+      "walkability": "high",
+      "familyFit": "high",
+      "remoteWorkFit": "medium"
+    },
+    "access": {
+      "driveToAlmeriaMins": 35,
+      "driveToAirportMins": 45,
+      "nearestHospitalMins": 25,
+      "beachWalkMins": 5
+    },
+    "facts": {
+      "population": 2500,
+      "climateSummary": "Mediterranean - warmest area on the coast",
+      "internetQuality": "okay",
+      "practicalNotes": ["Limited amenities", "Protected natural park", "Limited development allowed"],
+      "healthcareAccessNote": "Nearest hospital in Almería"
+    },
+    "highlights": [
+      {
+        "title": "Playa de Monsul",
+        "description": "Iconic beach featured in Hollywood films",
+        "type": "beach"
+      },
+      {
+        "title": "Playa de San José",
+        "description": "Main village beach with facilities",
+        "type": "beach"
+      },
+      {
+        "title": "Cabo de Gata Natural Park",
+        "description": "Europe's only desert biosphere reserve",
+        "type": "daytrip"
+      }
+    ],
+    "editorial": {
+      "vibe": "Picturesque village in Spain's only desert natural park with stunning beaches and strong demand.",
+      "whyChooseIt": "Best for those seeking the unique combination of protected natural beauty and excellent beaches.",
+      "whoShouldAvoidIt": "Value buyers or those needing full services and modern amenities."
+    },
+    "metadata": {
+      "lastReviewed": "2026-01-15",
+      "confidence": "high",
+      "sources": ["Idealista", "Parque Natural de Cabo de Gata"]
+    }
+  },
+  {
+    "id": "las-negras",
+    "slug": "las-negras",
+    "name": "Las Negras",
+    "region": "cabo-de-gata",
+    "type": "village",
+    "coordinates": { "lat": 36.8802, "lng": -2.0115 },
+    "hero": {
+      "imageUrl": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=800&q=80",
+      "alt": "Las Negras beach"
+    },
+    "summary": {
+      "oneLiner": "Distinctive protected-coast setting with strong lifestyle demand.",
+      "shortDescription": "A charming fishing village on the less-visited eastern side of Cabo de Gata. Offers excellent beaches with more tranquility than San José.",
+      "bestFor": ["premium", "beach-lifestyle", "nature-lovers"],
+      "tradeoffs": ["Remote location", "Limited amenities", "Summer crowds", "Protected area"]
+    },
+    "pricing": {
+      "priceBandLabel": "€200k–€350k",
+      "avgPricePerSqm": 2400,
+      "marketPosition": "premium",
+      "typicalPropertyTypes": ["villas", "village houses", "apartments"],
+      "buyerNote": "More accessible than San José but still constrained by natural park designation."
+    },
+    "lifestyle": {
+      "beachAccess": "excellent",
+      "yearRoundLiveliness": "low",
+      "internationalFeel": "medium",
+      "walkability": "high",
+      "familyFit": "medium",
+      "remoteWorkFit": "low"
+    },
+    "access": {
+      "driveToAlmeriaMins": 50,
+      "driveToAirportMins": 60,
+      "nearestHospitalMins": 30,
+      "beachWalkMins": 3
+    },
+    "facts": {
+      "population": 1200,
+      "climateSummary": "Mediterranean - warm and dry",
+      "internetQuality": "okay",
+      "practicalNotes": ["Small village shops", "Beach restaurants", "Limited development"],
+      "healthcareAccessNote": "Nearest hospital in Almería"
+    },
+    "highlights": [
+      {
+        "title": "Playa de Las Negras",
+        "description": "Beautiful beach with volcanic black sand",
+        "type": "beach"
+      },
+      {
+        "title": "Cabo de Gata",
+        "description": "Access to pristine natural park beaches",
+        "type": "daytrip"
+      }
+    ],
+    "editorial": {
+      "vibe": "Charming fishing village on the wild side of Cabo de Gata with excellent beaches and more peace.",
+      "whyChooseIt": "Best for those seeking authentic village atmosphere and pristine beaches away from crowds.",
+      "whoShouldAvoidIt": "Those needing daily amenities or fast internet for remote work."
+    },
+    "metadata": {
+      "lastReviewed": "2026-01-15",
+      "confidence": "medium",
+      "sources": ["Idealista", "Local observation"]
+    }
+  },
+  {
+    "id": "agua-amarga",
+    "slug": "agua-amarga",
+    "name": "Agua Amarga",
+    "region": "cabo-de-gata",
+    "type": "village",
+    "coordinates": { "lat": 36.9402, "lng": -1.9399 },
+    "hero": {
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "alt": "Agua Amarga beach and village"
+    },
+    "summary": {
+      "oneLiner": "One of the priciest small beach villages on this coast.",
+      "shortDescription": "An exclusive small village with excellent beach and upscale dining. The premium location attracts high-net-worth buyers seeking privacy.",
+      "bestFor": ["premium", "beach-lifestyle"],
+      "tradeoffs": ["Very limited properties", "Premium pricing", "Summer crowds", "Limited availability"]
+    },
+    "pricing": {
+      "priceBandLabel": "€250k–€450k",
+      "avgPricePerSqm": 3200,
+      "marketPosition": "premium",
+      "typicalPropertyTypes": ["villas", "luxury apartments"],
+      "buyerNote": "One of the most exclusive and expensive locations on the coast."
+    },
+    "lifestyle": {
+      "beachAccess": "excellent",
+      "yearRoundLiveliness": "low",
+      "internationalFeel": "high",
+      "walkability": "high",
+      "familyFit": "medium",
+      "remoteWorkFit": "low"
+    },
+    "access": {
+      "driveToAlmeriaMins": 55,
+      "driveToAirportMins": 65,
+      "nearestHospitalMins": 35,
+      "beachWalkMins": 2
+    },
+    "facts": {
+      "population": 500,
+      "climateSummary": "Mediterranean - warm year-round",
+      "internetQuality": "okay",
+      "practicalNotes": ["Upscale restaurant", "Beach club", "Very limited retail"],
+      "healthcareAccessNote": "Nearest hospital in Almería"
+    },
+    "highlights": [
+      {
+        "title": "Playa de Agua Amarga",
+        "description": "Beautiful cove beach with upscale feel",
+        "type": "beach"
+      },
+      {
+        "title": "Exclusive Dining",
+        "description": "Famous seafood restaurant overlooking the bay",
+        "type": "food"
+      }
+    ],
+    "editorial": {
+      "vibe": "Exclusive boutique village with one of the best beaches on the coast and refined atmosphere.",
+      "whyChooseIt": "Best for those seeking exclusivity, privacy, and one of the finest beaches in the region.",
+      "whoShouldAvoidIt": "Value buyers or those seeking larger community with more services."
+    },
+    "metadata": {
+      "lastReviewed": "2026-01-15",
+      "confidence": "medium",
+      "sources": ["Idealista", "Local observation"]
+    }
+  },
+  {
+    "id": "carboneras",
+    "slug": "carboneras",
+    "name": "Carboneras",
+    "region": "east",
+    "type": "town",
+    "coordinates": { "lat": 36.9974, "lng": -1.8941 },
+    "hero": {
+      "imageUrl": "https://images.unsplash.com/photo-1565008447742-97f6f38c985c?w=800&q=80",
+      "alt": "Carboneras coastline"
+    },
+    "summary": {
+      "oneLiner": "More local-feeling town with access to striking eastern beaches.",
+      "shortDescription": "A traditional Spanish fishing town with excellent beaches and more authentic character than the resort areas. Offers good value with strong local culture.",
+      "bestFor": ["mid-range", "year-round-living", "beach-lifestyle"],
+      "tradeoffs": ["Less international", "Fewer tourist amenities", "More traditional feel"]
+    },
+    "pricing": {
+      "priceBandLabel": "€130k–€220k",
+      "avgPricePerSqm": 1150,
+      "marketPosition": "mid",
+      "typicalPropertyTypes": ["apartments", "townhouses", "villas"],
+      "buyerNote": "Best value in Levante region with authentic Spanish coastal character."
+    },
+    "lifestyle": {
+      "beachAccess": "excellent",
+      "yearRoundLiveliness": "high",
+      "internationalFeel": "low",
+      "walkability": "high",
+      "familyFit": "high",
+      "remoteWorkFit": "medium"
+    },
+    "access": {
+      "driveToAlmeriaMins": 55,
+      "driveToAirportMins": 50,
+      "nearestHospitalMins": 15,
+      "beachWalkMins": 5
+    },
+    "facts": {
+      "population": 18000,
+      "climateSummary": "Mediterranean - warm and sunny",
+      "internetQuality": "good",
+      "practicalNotes": ["Good local services", "Traditional mercado", "Beach clubs", "Wind/kitesurfing"],
+      "healthcareAccessNote": "Local health center"
+    },
+    "highlights": [
+      {
+        "title": "Playa de Carboneras",
+        "description": "Blue Flag beach with excellent water quality",
+        "type": "beach"
+      },
+      {
+        "title": "Cabo de Gata",
+        "description": "Access to eastern beaches of the natural park",
+        "type": "daytrip"
+      },
+      {
+        "title": "Water Sports",
+        "description": "World-class windsurfing and kitesurfing",
+        "type": "daytrip"
+      }
+    ],
+    "editorial": {
+      "vibe": "Traditional Spanish coastal town with excellent beaches and authentic character.",
+      "whyChooseIt": "Best for those seeking authentic Spanish coastal living with excellent beaches and good value.",
+      "whoShouldAvoidIt": "Those seeking international community or resort-style amenities."
+    },
+    "metadata": {
+      "lastReviewed": "2026-01-15",
+      "confidence": "high",
+      "sources": ["Idealista", "Ayuntamiento de Carboneras"]
+    }
+  },
+  {
+    "id": "mojacar-playa",
+    "slug": "mojacar-playa",
+    "name": "Mojácar Playa",
+    "region": "east",
+    "type": "beach resort",
+    "coordinates": { "lat": 37.1393, "lng": -1.8321 },
+    "hero": {
+      "imageUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&q=80",
+      "alt": "Mojácar Playa beach and village"
+    },
+    "summary": {
+      "oneLiner": "Internationally popular resort market with consistently strong buyer demand.",
+      "shortDescription": "The most internationally known resort on the Costa de Almería. Offers excellent beach, established infrastructure, and strong rental demand.",
+      "bestFor": ["mid-range", "beach-lifestyle", "rental-investment"],
+      "tradeoffs": ["Busier than western towns", "Premium pricing", "More touristy feel"]
+    },
+    "pricing": {
+      "priceBandLabel": "€180k–€320k",
+      "avgPricePerSqm": 1750,
+      "marketPosition": "mid",
+      "typicalPropertyTypes": ["apartments", "villas", "townhouses"],
+      "buyerNote": "Premium resort with strong rental demand and excellent infrastructure."
+    },
+    "lifestyle": {
+      "beachAccess": "excellent",
+      "yearRoundLiveliness": "high",
+      "internationalFeel": "high",
+      "walkability": "high",
+      "familyFit": "high",
+      "remoteWorkFit": "high"
+    },
+    "access": {
+      "driveToAlmeriaMins": 60,
+      "driveToAirportMins": 45,
+      "nearestHospitalMins": 15,
+      "beachWalkMins": 5
+    },
+    "facts": {
+      "population": 45000,
+      "climateSummary": "Mediterranean - excellent year-round climate",
+      "internetQuality": "good",
+      "practicalNotes": ["Excellent restaurants", "Beach clubs", "Supermarkets", "Golf nearby", "International schools"],
+      "healthcareAccessNote": "Private clinic and hospital in nearby Vera"
+    },
+    "highlights": [
+      {
+        "title": "Playa de Mojácar",
+        "description": "17km of Blue Flag beaches",
+        "type": "beach"
+      },
+      {
+        "title": "Mojácar Pueblo",
+        "description": "White village perched above the coast",
+        "type": "viewpoint"
+      },
+      {
+        "title": "Marina",
+        "description": "International marina with full services",
+        "type": "area"
+      }
+    ],
+    "editorial": {
+      "vibe": "The most established resort on the coast with excellent infrastructure and international character.",
+      "whyChooseIt": "Best for those wanting proven rental demand, excellent infrastructure, and established international community.",
+      "whoShouldAvoidIt": "Value buyers seeking more affordable entry or those preferring quieter, less developed areas."
+    },
+    "metadata": {
+      "lastReviewed": "2026-01-15",
+      "confidence": "high",
+      "sources": ["Idealista", "Ayuntamiento de Mojácar"]
+    }
+  },
+  {
+    "id": "garrucha",
+    "slug": "garrucha",
+    "name": "Garrucha",
+    "region": "east",
+    "type": "town",
+    "coordinates": { "lat": 37.181, "lng": -1.8234 },
+    "hero": {
+      "imageUrl": "https://images.unsplash.com/photo-1506929562872-bb421503ef21?w=800&q=80",
+      "alt": "Garrucha harbor"
+    },
+    "summary": {
+      "oneLiner": "Working port town with a practical year-round market.",
+      "shortDescription": "A genuine working fishing port with authentic Spanish character. Offers excellent seafood restaurants and a more local alternative to nearby resorts.",
+      "bestFor": ["mid-range", "year-round-living", "beach-lifestyle"],
+      "tradeoffs": ["Less international feel", "Fewer tourist amenities", "Working port atmosphere"]
+    },
+    "pricing": {
+      "priceBandLabel": "€140k–€240k",
+      "avgPricePerSqm": 1300,
+      "marketPosition": "mid",
+      "typicalPropertyTypes": ["apartments", "townhouses", "villas"],
+      "buyerNote": "Best value in Levante area with authentic Spanish coastal town character."
+    },
+    "lifestyle": {
+      "beachAccess": "excellent",
+      "yearRoundLiveliness": "high",
+      "internationalFeel": "low",
+      "walkability": "high",
+      "familyFit": "high",
+      "remoteWorkFit": "medium"
+    },
+    "access": {
+      "driveToAlmeriaMins": 65,
+      "driveToAirportMins": 50,
+      "nearestHospitalMins": 10,
+      "beachWalkMins": 5
+    },
+    "facts": {
+      "population": 15000,
+      "climateSummary": "Mediterranean - warm and sunny",
+      "internetQuality": "good",
+      "practicalNotes": ["Fishing port", "Excellent seafood restaurants", "Good local services", "Weekly mercado"],
+      "healthcareAccessNote": "Local health center, hospital in Vera"
+    },
+    "highlights": [
+      {
+        "title": "Puerto Pesquero",
+        "description": "Active fishing port with daily fish auctions",
+        "type": "area"
+      },
+      {
+        "title": "Playa de Garrucha",
+        "description": "Urban beach with promenade",
+        "type": "beach"
+      },
+      {
+        "title": "Seafood Restaurants",
+        "description": "Famous for fresh fish and seafood",
+        "type": "food"
+      }
+    ],
+    "editorial": {
+      "vibe": "Authentic working port town with excellent seafood and genuine Spanish coastal character.",
+      "whyChooseIt": "Best for those seeking authentic Spanish town life with excellent restaurants and beach access.",
+      "whoShouldAvoidIt": "Those seeking international community or resort-style amenities."
+    },
+    "metadata": {
+      "lastReviewed": "2026-01-15",
+      "confidence": "high",
+      "sources": ["Idealista", "Ayuntamiento de Garrucha"]
+    }
+  },
+  {
+    "id": "vera-playa",
+    "slug": "vera-playa",
+    "name": "Vera Playa",
+    "region": "east",
+    "type": "beach resort",
+    "coordinates": { "lat": 37.2232, "lng": -1.8046 },
+    "hero": {
+      "imageUrl": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=800&q=80",
+      "alt": "Vera Playa beach"
+    },
+    "summary": {
+      "oneLiner": "Resort-style stock with broad inventory and lifestyle appeal.",
+      "shortDescription": "A well-established resort with excellent beaches, good infrastructure, and strong rental demand. Popular with Northern European buyers.",
+      "bestFor": ["mid-range", "beach-lifestyle", "rental-investment"],
+      "tradeoffs": ["More developed", "Summer crowds", "Less authentic Spanish feel"]
+    },
+    "pricing": {
+      "priceBandLabel": "€130k–€240k",
+      "avgPricePerSqm": 1250,
+      "marketPosition": "mid",
+      "typicalPropertyTypes": ["apartments", "villas", "townhouses"],
+      "buyerNote": "Excellent value with strong rental market and established resort infrastructure."
+    },
+    "lifestyle": {
+      "beachAccess": "excellent",
+      "yearRoundLiveliness": "high",
+      "internationalFeel": "high",
+      "walkability": "high",
+      "familyFit": "high",
+      "remoteWorkFit": "high"
+    },
+    "access": {
+      "driveToAlmeriaMins": 70,
+      "driveToAirportMins": 55,
+      "nearestHospitalMins": 8,
+      "beachWalkMins": 5
+    },
+    "facts": {
+      "population": 25000,
+      "climateSummary": "Mediterranean - excellent year-round",
+      "internetQuality": "good",
+      "practicalNotes": ["Beach clubs", "Supermarkets", "Restaurants", "Water park nearby"],
+      "healthcareAccessNote": "Hospital Vithas in Vera - private hospital"
+    },
+    "highlights": [
+      {
+        "title": "Playa de Vera",
+        "description": "Excellent Blue Flag beach",
+        "type": "beach"
+      },
+      {
+        "title": "Aqua Vera Water Park",
+        "description": "Large water park for families",
+        "type": "daytrip"
+      }
+    ],
+    "editorial": {
+      "vibe": "Well-established resort with excellent beaches and broad property inventory.",
+      "whyChooseIt": "Best for rental investors and those seeking proven resort with strong infrastructure.",
+      "whoShouldAvoidIt": "Those seeking traditional Spanish village character or quieter settings."
+    },
+    "metadata": {
+      "lastReviewed": "2026-01-15",
+      "confidence": "high",
+      "sources": ["Idealista", "Ayuntamiento de Vera"]
+    }
+  },
+  {
+    "id": "villaricos",
+    "slug": "villaricos",
+    "name": "Villaricos",
+    "region": "east",
+    "type": "village",
+    "coordinates": { "lat": 37.2439, "lng": -1.7737 },
+    "hero": {
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "alt": "Villaricos beach and marina"
+    },
+    "summary": {
+      "oneLiner": "Quiet eastern option with marina feel and lower density.",
+      "shortDescription": "A peaceful coastal village on the eastern edge with marina and beach. Offers good value with a quieter atmosphere than the busier resorts.",
+      "bestFor": ["mid-range", "beach-lifestyle", "retirement"],
+      "tradeoffs": ["Limited amenities", "Remote location", "Fewer services"]
+    },
+    "pricing": {
+      "priceBandLabel": "€110k–€210k",
+      "avgPricePerSqm": 1100,
+      "marketPosition": "mid",
+      "typicalPropertyTypes": ["apartments", "villas", "bungalows"],
+      "buyerNote": "Good value on the eastern edge with quiet atmosphere and marina."
+    },
+    "lifestyle": {
+      "beachAccess": "excellent",
+      "yearRoundLiveliness": "low",
+      "internationalFeel": "medium",
+      "walkability": "medium",
+      "familyFit": "medium",
+      "remoteWorkFit": "low"
+    },
+    "access": {
+      "driveToAlmeriaMins": 80,
+      "driveToAirportMins": 65,
+      "nearestHospitalMins": 15,
+      "beachWalkMins": 3
+    },
+    "facts": {
+      "population": 3500,
+      "climateSummary": "Mediterranean - warm and sunny",
+      "internetQuality": "okay",
+      "practicalNotes": ["Marina", "Beach restaurants", "Small shops"],
+      "healthcareAccessNote": "Nearest hospital in Vera"
+    },
+    "highlights": [
+      {
+        "title": "Puerto Deportivo",
+        "description": "Marina with boat facilities",
+        "type": "area"
+      },
+      {
+        "title": "Playa de Villaricos",
+        "description": "Quiet beach with clear waters",
+        "type": "beach"
+      }
+    ],
+    "editorial": {
+      "vibe": "Peaceful coastal village with marina on the eastern frontier of the coast.",
+      "whyChooseIt": "Best for those seeking quiet village life with marina access away from crowds.",
+      "whoShouldAvoidIt": "Those needing daily amenities or fast internet for remote work."
+    },
+    "metadata": {
+      "lastReviewed": "2026-01-15",
+      "confidence": "medium",
+      "sources": ["Idealista", "Local observation"]
+    }
+  },
+  {
+    "id": "san-juan-terreros",
+    "slug": "san-juan-terreros",
+    "name": "San Juan de los Terreros",
+    "region": "east",
+    "type": "beach resort",
+    "coordinates": { "lat": 37.3514, "lng": -1.6768 },
+    "hero": {
+      "imageUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&q=80",
+      "alt": "San Juan de los Terreros beach"
+    },
+    "summary": {
+      "oneLiner": "Far-east lifestyle market close to the Murcia border.",
+      "shortDescription": "The easternmost resort on the Almería coast, close to the Murcia border. Offers excellent beaches and a more laid-back atmosphere than central areas.",
+      "bestFor": ["mid-range", "beach-lifestyle", "rental-investment"],
+      "tradeoffs": ["Far from Almería", "Limited local services", "More isolated"]
+    },
+    "pricing": {
+      "priceBandLabel": "€150k–€260k",
+      "avgPricePerSqm": 1350,
+      "marketPosition": "mid",
+      "typicalPropertyTypes": ["apartments", "villas", "townhouses"],
+      "buyerNote": "Best value in far-east with access to Murcia amenities nearby."
+    },
+    "lifestyle": {
+      "beachAccess": "excellent",
+      "yearRoundLiveliness": "medium",
+      "internationalFeel": "medium",
+      "walkability": "high",
+      "familyFit": "high",
+      "remoteWorkFit": "medium"
+    },
+    "access": {
+      "driveToAlmeriaMins": 90,
+      "driveToAirportMins": 75,
+      "nearestHospitalMins": 20,
+      "beachWalkMins": 5
+    },
+    "facts": {
+      "population": 15000,
+      "climateSummary": "Mediterranean - warm year-round",
+      "internetQuality": "good",
+      "practicalNotes": ["Beach clubs", "Supermarkets", "Restaurants"],
+      "healthcareAccessNote": "Nearest hospital in Águilas (Murcia)"
+    },
+    "highlights": [
+      {
+        "title": "Playa de San Juan",
+        "description": "Excellent Blue Flag beach",
+        "type": "beach"
+      },
+      {
+        "title": "Calafratía",
+        "description": "Beautiful coved beach",
+        "type": "beach"
+      }
+    ],
+    "editorial": {
+      "vibe": "Easternmost resort with excellent beaches and access to Murcia region amenities.",
+      "whyChooseIt": "Best for those seeking beach lifestyle near the Murcia border with excellent beaches.",
+      "whoShouldAvoidIt": "Those wanting to be close to Almería city or needing regular access to provincial services."
+    },
+    "metadata": {
+      "lastReviewed": "2026-01-15",
+      "confidence": "medium",
+      "sources": ["Idealista", "Local observation"]
+    }
+  }
+]
